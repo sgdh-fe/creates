@@ -1,0 +1,35 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+  font: 12px/1 '\5FAE\8F6F\96C5\9ED1', arial, helvetica, sans-serif;
+  color: #333;
+  -webkit-text-size-adjust: none;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.cf {
+  &:before, &:after {
+    content: "\20";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+.ct {
+  font-size: 0;
+  line-height: 0;
+  overflow: hidden;
+  text-indent: -999px;
+}

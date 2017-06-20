@@ -1,0 +1,14 @@
+{
+  "name": "${name}",
+  "version": "${version}",
+  "author": "${author}",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "dev-scripts server",
+    "build": "dev-scripts build"
+  },
+  "devDependencies": {
+    "dev-scripts": "^1.0.2"
+  }
+}
