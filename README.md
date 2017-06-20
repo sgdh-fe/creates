@@ -25,7 +25,7 @@ $ yarn start
 $ yarn run build
 ```
 
-## 语法
+## 语法
 
 ```sh
 $ creates <project-directory> [author] [version]
