@@ -30,3 +30,9 @@ $ yarn run build
 ```sh
 $ creates <project-directory> [author] [version]
 ```
+
+
+## 更新记录
+  - v0.2.0 (2017-06-22)
+    - 修改模版配置文件位置
+    - 升级 [dev-script](https://github.com/cjg125/dev-scripts) -> v1.1.0
