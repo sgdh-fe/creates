@@ -9,6 +9,6 @@
     "build": "dev-scripts build"
   },
   "devDependencies": {
-    "dev-scripts": "^1.1.2"
+    "dev-scripts": "^1.1.3"
   }
 }

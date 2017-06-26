@@ -33,6 +33,9 @@ $ creates <project-directory> [author] [version]
 
 
 ## 更新记录
+  - v0.5.0 (2017-06-22)
+    - 升级 [dev-script](https://github.com/cjg125/dev-scripts) -> v1.1.3
+
   - v0.4.0 (2017-06-22)
     - 升级 [dev-script](https://github.com/cjg125/dev-scripts) -> v1.1.2
 
